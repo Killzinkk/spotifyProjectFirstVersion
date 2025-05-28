@@ -1,0 +1,3 @@
+AbmuW54Lhd4udQO2
+mongodb+srv://Killzinkk:AbmuW54Lhd4udQO2@cluster0.w5n9p5v.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
